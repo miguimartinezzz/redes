@@ -1,0 +1,652 @@
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:22:07 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:22:07 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:22:07 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /iiiindex.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:29:36 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:29:44 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:29:44 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:29:44 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:34:26 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:34:26 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:34:26 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:38:15 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:38:15 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:38:15 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:40:11 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:40:11 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:40:11 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:42:04 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:42:04 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 19:42:04 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 20:06:06 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 20:06:06 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Fri Mar 11 20:06:06 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:37:18 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:37:18 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:37:18 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:38:21 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:38:21 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:38:21 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:41:07 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:41:07 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 10:41:07 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:05:57 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:05:57 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:05:57 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /HEAD/index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:09:18 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:10:09 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:10:09 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:10:09 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /acces.log
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:12:23 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:13:18 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:13:18 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:13:18 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:48 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:48 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:48 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:52 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:52 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:52 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:53 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:53 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:53 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:55 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:55 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:55 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:56 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:56 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:56 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:57 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:57 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:57 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:57 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:57 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:16:57 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:19:47 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:19:47 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:19:47 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:21:27 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:21:27 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:21:27 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:22:53 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:22:53 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:22:53 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:23:34 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:23:34 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 12:23:34 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:42:31 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:42:31 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:42:31 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:43:52 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:43:52 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:43:52 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:43:59 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:43:59 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:43:59 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:45:30 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:45:30 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:45:30 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:46:06 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:46:06 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:46:06 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea:  /index.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:55:57 CET 2022
+Código de error: 400
+-------------------------
+
+------- E R R O R -------
+Petición errónea: GET /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:55:57 CET 2022
+Código de error: 404
+-------------------------
+
+------- E R R O R -------
+Petición errónea: HEAD /notFound.html
+IP cliente: /127.0.0.1
+Fecha y hora de error: Mon Mar 14 17:55:57 CET 2022
+Código de error: 404
+-------------------------
+
